@@ -2,10 +2,6 @@
 
 ### A Perception and Localization Algorithm Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chenpeng1234567&label=Profile views&color=0e75b6&style=flat" alt="chenpeng1234567" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenpeng1234567" alt="chenpeng1234567" /></a> </p>
-
 - 🔭 I'm currently working on **BEV and Occupancy Projects**
 
 - 🌱 I'm currently learning **Spatial Intelligence**
